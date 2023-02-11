@@ -1,6 +1,8 @@
-# Realizza uno script che acquisisca il tempo attuale (GMT) e lo converta in un tempo in ore, minuti e 
-# secondi, più i giorni trascorsi dal "tempo zero".
-# Nei sistemi UNIX, questo "tempo zero" è il 1 gennaio 1970.
+"""
+Realizza uno script che acquisisca il tempo attuale (GMT) e lo converta in un tempo in ore, minuti e 
+secondi, più i giorni trascorsi dal "tempo zero".
+Nei sistemi UNIX, questo "tempo zero" è il 1 gennaio 1970.
+"""
 
 import time
 
