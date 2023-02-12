@@ -3,9 +3,7 @@
 "Si" o "No", a seconda che si possa o meno formare un triangolo con dei bastoncini delle tre
 lunghezze date. 
 (Se la somma di due lunghezze è uguale alla terza, si ha un triangolo "degenere".)
-"""
 
-"""
 2. Scrivete una funzione che chieda all'utente di inserire tre lunghezze, le converta in interi, e le 
 passi a triangolo per verificare se si possa o meno formare un triangolo.
 """
