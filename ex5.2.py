@@ -1,15 +1,11 @@
 """
 L'ultimo teorema di Fermat afferma che non esistono numeri interi positivi a, b e c tali che 
 a^n + b^n = c^n per qualsiasi valore di n maggiore di 2.
-"""
 
-"""
 1. Scrivete una funzione di nome verifica_fermat che richieda quattro parametri a, b, c e n
 e controlli se il teorema regge. Se n è maggiore di 2 e fosse a^n + b^n = c^n
 il programma dovrebbe visualizzare: "Santi Numi, Fermat si è sbagliato!", altrimenti: "No, questo non è vero."
-"""
 
-"""
 2. Scrivete una funzione che chieda all'utente di inserire valori di a, b, c e n, li converta in interi
 e usi verifica_fermat per controllare se violano il teorema di Fermat.
 """
